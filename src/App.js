@@ -1,4 +1,3 @@
-import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -6,6 +5,7 @@ function App() {
     <div className="App">
        <h1>WorkBench for Interviews</h1>
       <header className="App-header">
+        <h3>Place your component below here</h3>
       </header>
     </div>
   );
